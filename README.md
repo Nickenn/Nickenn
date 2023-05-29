@@ -3,9 +3,9 @@
 
 <p>Welcome to my page! </br> I'm Nicholas, Frontend student from <b>Molde, Norway</b>, currently living in <b>Trondheim, Norway</b>. </p>
 
-<h3>Things I code with</h3>
-
 <!--
+
+<h3>Things I code with</h3>
 **Nickenn/Nickenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
