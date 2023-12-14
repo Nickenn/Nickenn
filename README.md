@@ -17,5 +17,7 @@ I have recently become a frontend developer through Noroff School of Technology 
 <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nickenn&layout=compact' alt='most used languages'>
 
 ## Contact me: 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Nickenn) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/nicholas-avery-85415024a/)  
+
+(https://github.com/Nickenn) 
+
+(https://www.linkedin.com/in/nicholas-avery-85415024a/)  
