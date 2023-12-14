@@ -9,7 +9,8 @@ I have recently become a frontend developer through Noroff School of Technology 
 ## Skills: 
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
-<img width="40px" alt="Typescript" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" alt="Typescript icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/typescript-icon.svg" alt="Typescript icon" />
+<img width="40px" alt="React JS" src="https://github.com/Pedro-Murilo/Pedro-Murilo/blob/main/.github/react-icon.svg" alt="React JS" />
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" />
 <img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
