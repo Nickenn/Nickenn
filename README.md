@@ -1,5 +1,5 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
-# Hello there!, I'm Nicholas 🤗
+
+Hello there!, I'm Nicholas <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 #### Front-End Developer and Designer
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=Nickenn&show_icons=true' alt='github stats'>
