@@ -1,19 +1,16 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# Hello there!, I'm Nicholas 🤗
+#### Front-End Developer and Designer
 
+<img align='right' src='https://github-readme-stats.vercel.app/api?username=Nickenn&show_icons=true' alt='github stats'>
 
-<p>Welcome to my page! </br> I'm Nicholas, Frontend student from <b>Molde, Norway</b>, currently living in <b>Trondheim, Norway</b>. </p>
+I have recently become a frontend developer through Noroff School of Technology and Digital Media. I am passionate about web design, and two other hobbies I have are snowboarding and football. In the future I plan on becoming a full stack developer.
 
-<!--
+## Skills: 
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/css-icon.svg" alt="CSS Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/sass-icon.svg" alt="SASS Icon" />
+<img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/figma-icon.svg" alt="Figma Icon" />
+<img width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
 
-<h3>Things I code with</h3>
-**Nickenn/Nickenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=Nickenn&layout=compact' alt='most used languages'>
