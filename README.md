@@ -23,10 +23,10 @@ https://dainty-puppy-797900.netlify.app/
 
 ## Contact me: 
 
-#LinkedIn:
+LinkedIn:
 
 https://www.linkedin.com/in/nicholas-avery-85415024a/
 
-#GitHub:
+GitHub:
 
 https://github.com/Nickenn
