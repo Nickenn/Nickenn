@@ -20,6 +20,7 @@ I have recently become a frontend developer through Noroff School of Technology 
 
 https://dainty-puppy-797900.netlify.app/
 
+##
 
 ## Contact me: 
 
