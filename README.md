@@ -22,5 +22,11 @@ https://dainty-puppy-797900.netlify.app/
 
 
 ## Contact me: 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' color="white" alt='github' height='40'>(https://github.com/Nickenn) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' color="white" alt='linkedin' height='40'>(https://www.linkedin.com/in/nicholas-avery-85415024a/)  
+
+#LinkedIn:
+
+https://www.linkedin.com/in/nicholas-avery-85415024a/
+
+#GitHub:
+
+https://github.com/Nickenn
