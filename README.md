@@ -27,7 +27,3 @@ https://dainty-puppy-797900.netlify.app/
 LinkedIn:
 
 https://www.linkedin.com/in/nicholas-avery-85415024a/
-
-GitHub:
-
-https://github.com/Nickenn
