@@ -4,7 +4,7 @@ Hello there!, I'm Nicholas <img src="https://emojis.slackmojis.com/emojis/images
 
 <img align='right' src='https://github-readme-stats.vercel.app/api?username=Nickenn&show_icons=true' alt='github stats'>
 
-I have recently become a frontend developer through Noroff School of Technology and Digital Media. I am passionate about web design, and two other hobbies I have are snowboarding and football. In the future I plan on becoming a full stack developer.
+I have recently become a frontend developer through Noroff School of Technology and Digital Media. I am passionate about web design, and two other hobbies I have are snowboarding and football. In the future I plan on becoming a fullstack developer.
 
 ## Skills: 
 <img align="left" width="45px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
